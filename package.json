@@ -1,0 +1,23 @@
+{
+  "name": "feedly-extension",
+  "version": "1.0.0",
+  "description": "This project is to build a feedly extension for chrome which would keep updating and randomly popup a link to read",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chhetrisushil/feedly-extension.git"
+  },
+  "keywords": [
+    "feedly",
+    "chrome-extension"
+  ],
+  "author": "chhetrisushil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chhetrisushil/feedly-extension/issues"
+  },
+  "homepage": "https://github.com/chhetrisushil/feedly-extension"
+}
